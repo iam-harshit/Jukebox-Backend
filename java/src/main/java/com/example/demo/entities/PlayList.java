@@ -42,7 +42,7 @@ public class PlayList extends BaseEntity{
 
     @Override
     public String toString() {
-        return "PlayList [id=" + getId() + "]";
+        return "Playlist [id=" + getId() + "]";
     }
 
     
